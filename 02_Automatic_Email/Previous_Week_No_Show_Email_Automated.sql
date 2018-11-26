@@ -1,6 +1,6 @@
 EXEC msdb.dbo.sp_send_dbmail
 @profile_name = 'SendCallCenter',
-@recipients = 'cbroker1@jhmi.edu',
+@recipients = 'dummy@email.com',
 @subject = 'Previous Week No-Shows',
 @query = 
 N'
