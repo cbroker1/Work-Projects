@@ -1,4 +1,4 @@
-# Work-Related-Projects (completed)
+# Work-Related-Projects
 
 ## Projects Completed as Senior Data Analyst:
 
