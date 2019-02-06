@@ -4,7 +4,7 @@
 
 1. Leveling (Python)
   
-  Objective: Automate cleaning of dataset. Cleaned dataset used for internal/external reporting. 
+  Objective: Automate cleaning of dataset. Cleaned dataset used for scheduled internal/external reporting. 
 
 2. Automatic Email (Transact-SQL)
   
